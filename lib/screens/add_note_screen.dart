@@ -76,7 +76,7 @@ class _AddNoteScreenState extends State<AddNoteScreen> {
               child: Text('Save Note', style: TextStyle(color: Colors.white)),
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.deepPurple,
-                // Set the background color of the button
+                
               ),
             ),
           ],
